@@ -1,0 +1,137 @@
+what are the goals of this article:
+to provide a strategic take for software developers actively seeking a new work with 0 to 1 years of professional development experience. Read all of the sections or only sections relevant to you. 
+
+who this article is written for:
+- folks brand new to a software development career 
+- freshly-professional software developers
+- those looking to take their software creation hobby and expand into a full-time professional position
+- professionals looking to spruce up their current perspectives on job hunting (especially those without direct networking connections, although there is information about that in further sections)
+
+why this article was created:
+    This article sprouted from the lack of direction I had when seeking out new work opportunities and also desired a condense conglomeration of resources to benefit my job searching.
+
+    
+I. Preparing for your job search
+II. Searching
+III. Oh my, yes, this is the company I want to work with!
+IV. I've landed an interview! (puts on party pants)
+
+
+I.    
+
+think about what you want before you start your job search
+a. primary concerns
+    1. where do you want to contribute your talents and skills? what problems do you want to solve?
+    2. what do you hope the company you invest gives back to you?
+b. secondary concerns (prioritize at your will)
+on job flexibility
+    - remote work
+        - id be awful at this right now. as a newer developer I like to have one on one conversations with developers and in-person pair programming
+    - wfh policies
+- culutre fit
+- team dynamics
+- content of work
+- ability to learn
+- career growth
+- type of company and type of work
+    - consulting
+    - contract work
+    - start-up seeking ipo 
+    - coporate motivated by stakeholders
+
+resume
+a. But it looks better in in 2 pages
+    keep it to a page
+    - complaints from hiring staff of poorly formatted resumes (squished or no margins), resumes that are too long, resumes not directly about the work that you've done
+    - pdf pdf pdf!
+list potential sectons
+format
+    - I personally like to have an area where there is succint bullets to breeze through my experience along with a section that describes in a sentence or two the projects I directly worked on
+consider continuosly updating it with projects you've worked on 
+one to two sentence sell yourself sentence
+templates
+example  
+
+
+II.
+
+job boards
+- builtin chicago
+- girls develop it
+- meetup events
+- hired
+- hiring events/ job fairs
+
+recruiters
+a. do i need a recruiter to help with my job search?
+    -job boards
+    -networking
+    -job referrals
+b. quality of recruiting firms
+    0. types of recruiting firms
+    1. varying approaches to find people work
+    2. how they make their dough
+c. managing your relationship with recruiters
+    1. how many recruiters should I be communicating with during my job search
+d. where can I find a recruiter?
+    1. That LinkedIn inbox though...
+        a. it's so full!
+        b. s
+    2. Friends! And your network -  likelihood your network has vetted the ones that fit you
+
+
+
+networking and involving self in the community
+meetups
+slack
+
+keeping up with your skills
+open source
+working on a personal side project
+doing contract work
+
+start practicing code katas or daily tasks
+- algorithms
+- you may not have formal education, this is something to get good at
+
+
+III.
+
+cover letters
+- unique for each company
+- allow it as an opportunity to speak for you and speak clearly why you would be the best fit for the job. Concisely present yourself because you are so new  
+
+
+interviewing prep
+- interviewing for a technical role means a partially technical interview
+    - all of my technical interviews allowed me to work back and forth with the interviewee. It wasn't like an interrogation, where I was challenged on what I knew or didn't know, it was often more of a collaboration
+- meetup groups
+- code katas
+    - code wars
+    
+interview practice
+- get good at telling your personal story. practice telling your story
+
+
+
+
+------
+
+questions to consider
+- what kind of team do you want to work with 
+- understand the team you are going to work with (ask questions during the interview about the team, conisder hanging out with your potential team for a day or half day)
+
+
+maintaining a level of integrity with your work
+
+mentorship
+
+have an idea what your competitive salary is
+competitive salary - determine your worth and get feedback from others
+    - stackoverflow
+    - payscale
+    - indeed salary
+
+find a problem you want to solve
+
+book by andy lester
